@@ -1,5 +1,3 @@
-## `app.py` (FULL)
-```python
 import json
 import io
 import re
