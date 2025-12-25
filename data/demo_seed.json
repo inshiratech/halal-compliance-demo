@@ -1,0 +1,44 @@
+{
+  "company": "Demo Foods GCC",
+  "certificates": [
+    {
+      "id": "CERT-001",
+      "supplier": "Al Noor Ingredients",
+      "material": "Gelatin (Bovine)",
+      "cert_body": "Halal Authority A",
+      "country": "UAE",
+      "issue_date": "2025-02-01",
+      "expiry_date": "2026-01-31",
+      "status": "VALID",
+      "file_name": "AlNoor_Gelatin_HalalCert.pdf"
+    },
+    {
+      "id": "CERT-002",
+      "supplier": "Desert Spices Co.",
+      "material": "Spice Mix A",
+      "cert_body": "Halal Authority B",
+      "country": "KSA",
+      "issue_date": "2024-10-10",
+      "expiry_date": "2025-12-28",
+      "status": "EXPIRING",
+      "file_name": "DesertSpices_SpiceMixA_HalalCert.pdf"
+    },
+    {
+      "id": "CERT-003",
+      "supplier": "Gulf Packaging",
+      "material": "Packaging Film",
+      "cert_body": "N/A",
+      "country": "Qatar",
+      "issue_date": "2025-03-15",
+      "expiry_date": "2025-11-15",
+      "status": "EXPIRED",
+      "file_name": "GulfPackaging_Packaging_Declaration.pdf"
+    }
+  ],
+  "suppliers": [
+    { "name": "Al Noor Ingredients", "category": "Ingredients", "country": "UAE" },
+    { "name": "Desert Spices Co.", "category": "Ingredients", "country": "KSA" },
+    { "name": "Gulf Packaging", "category": "Packaging", "country": "Qatar" },
+    { "name": "Oasis Logistics", "category": "Logistics", "country": "UAE" }
+  ]
+}
