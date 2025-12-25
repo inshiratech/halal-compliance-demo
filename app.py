@@ -1,6 +1,3 @@
-
----
-
 ## `app.py` (FULL)
 ```python
 import json
